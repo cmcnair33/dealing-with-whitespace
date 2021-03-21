@@ -16,6 +16,10 @@ blockquote {
   font-size: 1.125rem;
 }
 
+.quote {
+  color: #999;
+}
+
 article ol {
   margin-left: -1.75em;
 }
@@ -34,4 +38,19 @@ article header {
   border-bottom: 2px;
   border-bottom-color: #999;
   border-bottom-style: solid;
+}
+
+article h1 {
+  font-size: 1.5rem;
+  color: #222;
+  font-weight: normal;
+}
+
+article header p {
+  font-style: italic;
+  margin-top: 1em;
+}
+
+article p {
+  color: #222;
 }
